@@ -1,6 +1,9 @@
 # expense_tracker
 
 A new Flutter project.
+![simple-iphone-15-pro-max](https://github.com/user-attachments/assets/ec8eb7fc-cbe2-4ec8-b62d-0619670d7cd8)
+![simple-iphone-15-pro-max (1)](https://github.com/user-attachments/assets/28babc71-75c8-4cda-a51d-f378a20efb8c)
+
 
 ## Getting Started
 
